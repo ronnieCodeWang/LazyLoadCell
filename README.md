@@ -1,1 +1,3 @@
 # LazyLoadCell
+tableView在拖拽和滑动时不去加载图片，停止拖拽和滑动时加载图片刷新到cell上
+该demo没有利用runLoop实现，也可以使用runLoop实现cell图片懒加载
